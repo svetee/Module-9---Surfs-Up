@@ -6,7 +6,8 @@
 Simple understanding of data data and giving to make the best decisions how to operate a surf shop in Hawaii.
 
 ## Analysis and Challenges
-Many database functions did not work well when running my code until I have updated my material version and importing dependencies.
+
+Comparing the results found in the descriptive statistical analysis for June and December, we see a difference in mean temperature per month, where June is higher. June has a higher mean temperature, maximum and minimum temperatures. Since the difference in degrees Fahrenheit is only 8 degrees, the type of customer may not change throughout the year.
 
 ## Results
 - The minimum temperature for the month of June is 64f, and 56F for the month of December. 
