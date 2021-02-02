@@ -1,6 +1,7 @@
 # Module-9---Surfs-Up
 
 ## Purpose
+
 To help W.Avy to simply understand the provided data and giving him elements to make the right decision on opening a surf shop in Oahu.
 
 ## Analysis and Challenges
@@ -17,4 +18,8 @@ Many database functions did not work well when running my code until I have upda
 
 
 ## Summary
-I do not have access to see where W.Avy wants to install his new shop, and he should check for the following: • Gather data on airlines fill rate. • Gather data on hotels fill rate. • Run the same code for the years preceding 2017 for the same months of June and December, then plot the results into a line chart to see the evolution and the change of temperature.
+- Gather data on airlines fill rate. 
+- Gather data on hotels fill rate. 
+- Run the same code for the years preceding 2017 for the same months of June and December, then plot the results into a line chart to see the evolution and the change of temperature.
+- Analyze precipitation rates to see if there is a risk for flooding.
+- Look at hurricane weather forcasting data- for example high precipitation data and high wind speeds.
