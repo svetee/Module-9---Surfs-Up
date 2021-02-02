@@ -1,8 +1,9 @@
 # Module-9---Surfs-Up
 
+
 ## Purpose
 
-To help W.Avy to simply understand the provided data and giving him elements to make the right decision on opening a surf shop in Oahu.
+Simple understanding of data data and giving to make the best decisions how to operate a surf shop in Hawaii.
 
 ## Analysis and Challenges
 Many database functions did not work well when running my code until I have updated my material version and importing dependencies.
