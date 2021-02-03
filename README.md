@@ -7,9 +7,10 @@ Simple understanding of data data and giving to make the best decisions how to o
 
 ## Analysis and Challenges
 
-Comparing the results found in the descriptive statistical analysis for June and December, we see a difference in mean temperature per month, where June is higher. June has a higher mean temperature, maximum and minimum temperatures. Since the difference in degrees Fahrenheit is only 8 degrees, the type of customer may not change throughout the year.
+The descriptive statistical analysis shows a higher mean temperature for June than for December. Reason is that June has maximum and minimum temperatures. However, the difference isn't too signigicant and might not impact tyope of customer throughout year. 
 
 ## Results
+
 - The minimum temperature for the month of June is 64f, and 56F for the month of December. 
 - The average temperature for the month of June is 75f, and 71F for the month of December.
 - The maximum temperature for the month of June is 85f, and 83F for the month of December.
@@ -20,6 +21,9 @@ Comparing the results found in the descriptive statistical analysis for June and
 
 
 ## Summary
+
+### Recommendations
+
 - Gather data on airlines fill rate. 
 - Gather data on hotels fill rate. 
 - Run the same code for the years preceding 2017 for the same months of June and December, then plot the results into a line chart to see the evolution and the change of temperature.
